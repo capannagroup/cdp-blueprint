@@ -1,4 +1,4 @@
-# Architecture
+# devops
 
 This section contains the enterprise architecture of the Capanna Digital Platform.
 
